@@ -1,38 +1,45 @@
 <h1 align="center">👋 Hi, I'm Fraol Merga</h1>
-<h3 align="center">🐍 Backend Specialist | 🚀 Django & Python | 🐳 DevOps Enthusiast | 🐧 Arch Linux</h3>
+<h3 align="center">🐍 Backend Specialist | 🚀 Aspiring Full Stack Engineer | 🐧 Arch Linux Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Specialist+%7C+Django+%26+Python;Building+robust+APIs;Docker+%26+PostgreSQL+Expert;I+use+Arch+btw+%F0%9F%90%A7;Continuous+Integration+%26+Deployment+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Specialist+%7C+Django+%26+Python;Mastering+Docker+%26+PostgreSQL;Full+Stack+MERN+Developer;Arch+Linux+Ninja+%F0%9F%90%A7;Building+Scalable+Solutions+⚡" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌟 About Me
-- 🎓 **CS Student** diving deep into the world of scalable backend systems.
-- 🏗️ **Backend Specialist** currently mastering **Django** and the Python ecosystem.
-- 🐳 **DevOps Focused**: Streamlining workflows with **Docker**, **PostgreSQL**, and **CI/CD** pipelines.
-- 🐧 **Arch Linux User**: I live in the terminal, optimizing my workflow for peak efficiency.
-- 📍 Based in Ethiopia, building high-performance applications with a global mindset.
+- 🎓 **CS Student** specializing in robust backend architectures.
+- 🏗️ **Backend Focus**: Currently deep-diving into **Django** and **Python** for high-performance APIs.
+- 🐳 **DevOps Learner**: Embracing **Docker**, **PostgreSQL**, and **CI/CD** to build modern deployment pipelines.
+- ⚛️ **Full Stack Roots**: Experienced in the **MERN Stack** (MongoDB, Express, React, Node.js).
+- 🐧 **Arch Linux user**: I use Arch btw—obsessed with terminal efficiency and clean setups.
+- 📍 Based in Ethiopia, building projects with local heart and global impact.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills
 
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-### 🚀 DevOps & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" height="40" alt="Arch Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 </p>
 
 ---
@@ -46,13 +53,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraol-12&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fraol-12&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ---
 
-## 🎯 Current Focus
-- ⚡ Architecting scalable REST APIs with **Django Rest Framework (DRF)**.
-- 🛡️ Implementing robust **CI/CD** workflows to automate deployments.
-- 📦 Containerizing multi-service applications using **Docker Compose**.
-- 🛠️ Mastering PostgreSQL optimization and relational database design.
+## 🎯 Current Goals
+- 💡 Master **Django Rest Framework (DRF)** for scalable API development.
+- ⚡ Deepen knowledge in **PostgreSQL** query optimization.
+- 🛠️ Build automated deployment pipelines using **GitHub Actions**.
+- 🌍 Contribute to open-source projects within the Python/Linux community.
 
 ---
 
@@ -67,6 +78,6 @@
 ---
 
 <p align="center">
-  <i>"Control is an illusion, but my Arch config is perfect."</i><br>
-  🌟 Every commit is a step toward greatness! 🌟
+  <i>"I use Arch btw. Every commit is a step toward greatness!"</i><br>
+  🌟 Keep coding, keep building! 🌟
 </p>
